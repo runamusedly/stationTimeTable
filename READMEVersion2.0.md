@@ -14,8 +14,8 @@
 ## 스크린샷
 <table>
   <tr>
-    <td><p align="center"><img src="media/screen1.png" alt="real web site1" width="50%"></p></td>
-    <td><p align="center"><img src="media/screen2.png" alt="real web site2" width="50%"></p></td>
+    <td><p align="center"><img src="screenshot/screen1.png" alt="real web site1" width="50%"></p></td>
+    <td><p align="center"><img src="screenshot/screen2.png" alt="real web site2" width="50%"></p></td>
   </tr>
 </table>
 
